@@ -10152,10 +10152,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-	
-	https://github.com/mxpichardo/ikusdesign/assets/img/header-bg.jpg
-		
-  background-image: url("https://github.com/mxpichardo/ikusdesign/assets/img/header-bg.jpg");
+				
+  background-image: url(".../github.com/mxpichardo/ikusdesign/assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
